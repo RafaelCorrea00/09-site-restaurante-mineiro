@@ -148,7 +148,7 @@ article{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-article img{
+#map{
     width: 250px;
     margin-left: 25px;
     border: black solid 1px;
@@ -202,13 +202,13 @@ article p{
         width: 500px;
     }
 
-    article img{
+    #map{
         width: 350px;
     }
 }
 
 @media screen and (max-width: 500px){
-    article img{
+    #map{
         display: block;
         margin: auto;
         margin-bottom: 15px;
